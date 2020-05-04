@@ -4,13 +4,4 @@ layout: default
 ---
 
 
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <h5>Me llamo Gwenaelle.</h5>
-  </body>
-</html>
+    <h5>{{Me llamo Gwenaelle. Soy una persona extraña pero con buenas intenciones.}}</h5>

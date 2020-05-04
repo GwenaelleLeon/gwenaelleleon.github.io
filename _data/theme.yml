@@ -1,0 +1,31 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#3498db'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: gwenaelleleon
+  #stackexchange: 348619
+  #stackoverflow: 348619
+  twitter: GwenaelleLeon
+  goodreads: 23581824-gwenaelle
+  #facebook: zuck
+  #tumblr: animalygifs
+  #linkedin: philipjagielski
+  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
+  #flickr: johndoe
+
+
+# "Hi, I'm _______"
+name: Gwenaelle Leon
+email: gweni.Leon@gmail.com
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key:
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: false
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: true

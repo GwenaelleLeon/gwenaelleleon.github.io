@@ -22,7 +22,7 @@ name: Gwenaelle Leon
 email: gweni.Leon@gmail.com
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key:
+google_analytics_key: UA-165606211-1
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: false

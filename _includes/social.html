@@ -6,12 +6,6 @@ Follow me:
   </a>
   {% endif %}
 
-  {% if site.data.theme.social.goodreads %}
-  <a title="{{ site.data.theme.social.goodreads }} on Goodreads" href="https://goodreads.com/user/show/{{ site.data.theme.social.goodreads }}/">
-    <img src="/goodreads.png" id="logo" alt="Blog logo"/>
-  </a>
-  {% endif %}
-
   {% if site.data.theme.social.twitter %}
   <a title="{{ site.data.theme.social.twitter }} on Twitter" href="https://twitter.com/{{ site.data.theme.social.twitter }}">
     <i class="fa fa-twitter-square"></i>
@@ -21,6 +15,12 @@ Follow me:
   {% if site.data.theme.show_atom_feed %}
   <a title="Atom feed" id="atom" href="/atom.xml">
     <i class="fa fa-rss-square"></i>
+  </a>
+  {% endif %}
+
+  {% if site.data.theme.social.goodreads %}
+  <a title="{{ site.data.theme.social.goodreads }} on Goodreads" href="https://goodreads.com/user/show/{{ site.data.theme.social.goodreads }}/">
+    <img src="/goodreads.png" id="logo" alt="Blog logo"/>
   </a>
   {% endif %}
 </div>

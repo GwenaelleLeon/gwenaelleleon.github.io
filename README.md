@@ -2,7 +2,7 @@
 
 > #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount"
 
-Lagom, a [Jekyll][j] blog theme with just the right amount of style. 
+Lagom, a [Jekyll][j] blog theme with just the right amount of style.
 
 Extracted lovingly from [http://mdswanson.com][mds] for your enjoyment!
 
@@ -37,11 +37,10 @@ color, stuff like that.
 
 There's a few other places that you'll want to change, too:
 
-- [CNAME][cname]: If you're using this on GitHub Pages with a custom domain name, 
-  you'll want to change this to be the domain you're going to use. All that should 
+- [CNAME][cname]: If you're using this on GitHub Pages with a custom domain name,
+  you'll want to change this to be the domain you're going to use. All that should
   be in here is a domain name on the first line and nothing else (like: `example.com`).
-- [favicon.png][favicon]: This is the icon in your browser's address bar. You should 
-  change it to whatever you'd like.
+- [favicon.png][favicon]: This is the icon in your browser's address bar. You should change it to whatever you'd like. Author (https://www.flaticon.com/authors/freepik)
 - [logo.png][logo]: A square-ish image that appears in the upper-left corner
 
 ## Deployment
